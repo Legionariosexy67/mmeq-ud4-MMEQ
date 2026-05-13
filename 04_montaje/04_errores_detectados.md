@@ -1,7 +1,7 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno:Sergio Aldomar 
+## 🖥️ Equipo:PC de clase 
 
 ---
 
@@ -22,46 +22,46 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 1
 
-📌 Descripción:
+📌 Descripción:Una memoria RAM estaba suelta y no conectada a la ranura DIM.
 (¿Qué ha ocurrido?)
 
-📌 Tipo:
+📌 Tipo:Simulado
 (Real / Simulado)
 
-📌 Fase del montaje:
+📌 Fase del montaje: Instalacion de RAM 
 (Ejemplo: instalación de RAM, cableado, etc.)
 
-📌 Causa:
+📌 Causa:La causa es la falta de aplicacion de la memoria RAM en la ranura DIM.
 (¿Por qué ocurre?)
 
-📌 Consecuencia:
+📌 Consecuencia:El equipo al no tener Memoria RAM no encendera.
 (¿Qué problema provoca?)
 
-📌 Solución aplicada o propuesta:
+📌 Solución aplicada o propuesta: poner las Memorias RAM en la ranura DIM
 (¿Cómo se soluciona?)
 
-📌 ¿Cómo prevenirlo?
+📌 ¿Cómo prevenirlo? No colocar mal las Memorias RAM
 (Qué harías para evitarlo)
 
 📸 Evidencia (si aplica):
-
+No hay 
 ---
 
 # 🔴 ERROR 2
 
-📌 Descripción:
+📌 Descripción:El cableado LED esta desconectado y uno roto
 
-📌 Tipo:
+📌 Tipo:Real( lo ultimo no)
 
-📌 Fase del montaje:
+📌 Fase del montaje:Montaje de cableado
 
-📌 Causa:
+📌 Causa:El cableado no fue conectado Y uno de los cables fue rasgado por el disipador 
 
-📌 Consecuencia:
+📌 Consecuencia: El ordenador no se encendera y ademas sera complicado arreglar ese cable
 
-📌 Solución:
+📌 Solución: Conectar los cables LED y aislar el cable roto.
 
-📌 Prevención:
+📌 Prevención:Revisar los cables y conectarlos bien y fijarse en no dañar el cableado.
 
 📸 Evidencia:
 
@@ -69,15 +69,15 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: Disipador roto y sin pasta termica y faltando ventilador
 
-📌 Tipo:
+📌 Tipo:Simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: Montaje de CPU
 
-📌 Causa:
+📌 Causa:javier olmedo se comio la pasta termica y rompio el disipador, el ventilador no estaba.
 
-📌 Consecuencia:
+📌 Consecuencia:Sobrecalentamiento de la CPU hasta que se queme.
 
 📌 Solución:
 
