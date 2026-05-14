@@ -1,7 +1,7 @@
 # ❌ ERRORES DETECTADOS EN EL MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno:Sergio Aldomar
+## 🖥️ Equipo:PC del instituto
 
 ---
 
@@ -22,25 +22,25 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 1
 
-📌 Descripción:
+📌 Descripción:Cableado LED Y AUX mal conectado
 (¿Qué ha ocurrido?)
 
-📌 Tipo:
+📌 Tipo:real
 (Real / Simulado)
 
-📌 Fase del montaje:
+📌 Fase del montaje:Cableado
 (Ejemplo: instalación de RAM, cableado, etc.)
 
-📌 Causa:
+📌 Causa:porque soy tonto y falle en el orden de cableado LED y no vi que los pines del aux estaban mal conectados.
 (¿Por qué ocurre?)
 
-📌 Consecuencia:
+📌 Consecuencia: No se encendera las luces del ordenador pero si funcionara correctamente
 (¿Qué problema provoca?)
 
-📌 Solución aplicada o propuesta:
+📌 Solución aplicada o propuesta: conectando los cables
 (¿Cómo se soluciona?)
 
-📌 ¿Cómo prevenirlo?
+📌 ¿Cómo prevenirlo?: no teniendo ese error humano
 (Qué harías para evitarlo)
 
 📸 Evidencia (si aplica):
@@ -49,19 +49,19 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 2
 
-📌 Descripción:
+📌 Descripción:disipador roto y falta de ventilador y pasta termica
 
-📌 Tipo:
+📌 Tipo:simulado
 
-📌 Fase del montaje:
+📌 Fase del montaje: montaje de CPU
 
-📌 Causa:
+📌 Causa: Javier olmedo se ha comido la pasta termica y ha mordido el disipador lo que hace que esos componentes esten dañados/falten. No habia ventilador
 
-📌 Consecuencia:
+📌 Consecuencia: se sobrecalentará en segundos y se apagará automáticamente o se dañará permanentemente.
 
-📌 Solución:
+📌 Solución:aplicar pasta termica en el procesador y ponerle disipador y ventilador·
 
-📌 Prevención:
+📌 Prevención:No dejar que javier toque mi ordenador.
 
 📸 Evidencia:
 
@@ -69,19 +69,19 @@ Debes documentar al menos **3 errores**:
 
 # 🔴 ERROR 3
 
-📌 Descripción:
+📌 Descripción: Cable ATX de 20 pines sin conectar
 
-📌 Tipo:
+📌 Tipo:Simulado 
 
-📌 Fase del montaje:
+📌 Fase del montaje: Montaje de Cableado
 
-📌 Causa:
+📌 Causa: El cable ATX de 24 pines no entra del todo porque a veces cuesta y parece que está puesto.
 
-📌 Consecuencia:
+📌 Consecuencia: El PC no enciende o se apaga al instante.
 
-📌 Solución:
+📌 Solución: Presionar el conector hasta que quede firme y revisar que no haya pines doblados.
 
-📌 Prevención:
+📌 Prevención: Comprobar que el cable este firme y bien conectado.
 
 📸 Evidencia:
 
@@ -90,7 +90,10 @@ Debes documentar al menos **3 errores**:
 # 🧠 REFLEXIÓN FINAL
 
 - ¿Qué error te parece más grave? ¿Por qué?
+- el segundo porque puede romper una pieza
 
 - ¿Qué error es más común en principiantes?
+- el numero 3
 
 - ¿Qué has aprendido sobre la importancia de montar correctamente un equipo?
+- Que puedes Fasridiar piezas si no tienes cuidado.
