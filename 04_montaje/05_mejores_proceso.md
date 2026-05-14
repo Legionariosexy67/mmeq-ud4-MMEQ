@@ -1,7 +1,7 @@
 # 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-## 👨‍💻 Alumno:
-## 🖥️ Equipo:
+## 👨‍💻 Alumno:Sergio Aldomar 
+## 🖥️ Equipo:PC del instituto
 
 ---
 
@@ -24,16 +24,16 @@ Las mejoras deben ser:
 
 # 🟢 MEJORA 1
 
-📌 ¿Qué mejorarías?
+📌 ¿Qué mejorarías?: Hacer mas visibles los pines del cableado y una pequeña guia estampada en la placa de como conectar los pines LED
 (Describe el cambio que harías)
 
-📌 ¿Por qué?
+📌 ¿Por qué?: Facilitaria la concexion y disminuiria el error al montarlo.
 (Explica el motivo)
 
-📌 ¿Cómo lo harías mejor?
+📌 ¿Cómo lo harías mejor?:Haciendo una pequeña tabla o guia de los colores en la placa para verlo mejor.
 (Explica el proceso correcto)
 
-📌 ¿Qué beneficio tiene?
+📌 ¿Qué beneficio tiene?:Menor error asl conectar ese cableado.
 (Ejemplo: evitar errores, mejorar rendimiento, mayor seguridad…)
 
 ---
